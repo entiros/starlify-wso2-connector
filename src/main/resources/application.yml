@@ -1,0 +1,10 @@
+
+
+
+starlify:
+  url: https://api.starlify.com
+wso2:
+  server:
+    url: https://gateway.api.cloud.wso2.com/api/am
+server:
+  port: 8080
