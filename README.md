@@ -1,4 +1,4 @@
-# Starlify connector for mule gateway
+# Starlify connector for wso2 gateway
 Exports the wso2 api details to starlify as Service, System and Flow.
 
 ## Dependencies
@@ -28,7 +28,7 @@ wso2:
 Go to cloned location and run below command to start the process
 mvn clean spring-boot:run
 
-## import mule api details to Starlify
+## import wso2 api details to Starlify
 Use below endpoint to start importing api details to starlify as services, systems and flows
 
 ```
