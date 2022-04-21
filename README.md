@@ -31,7 +31,7 @@ mvn clean spring-boot:run
 ```
 
 ## Import WS02 API Gateway details to Starlify
-Put the text below in your property file to configure your URL for WS02 API Gateway and Starlify:
+Use the endpoint below to start importing API details to Starlify as systems and services.
 ```
 Method : POST
 URL : http://localhost:8080/process/wso2
